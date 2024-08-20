@@ -1,3 +1,4 @@
 #Este es un programa que imprime "hola Mundo"
 
 Print("Hola Mundo, y a todo el mundo")
+Print("Adios, Amilkar")
